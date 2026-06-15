@@ -1,0 +1,109 @@
+City,Total_Branches,0 to unders 10 employee size,10 to unders 50 employee size,50 to under 250 employees size,250 to more employees size,Year
+"Koblenz, kreisfreie Stadt",5708.0,4628.0,811.0,233.0,36.0,2019
+"Ahrweiler, Landkreis",6317.0,5505.0,685.0,111.0,16.0,2019
+"Altenkirchen (Westerwald), Landkreis",5220.0,4386.0,664.0,151.0,19.0,2019
+"Bad Kreuznach, Landkreis",6902.0,5948.0,765.0,163.0,26.0,2019
+"Birkenfeld, Landkreis",3697.0,3178.0,425.0,80.0,14.0,2019
+"Cochem-Zell, Landkreis",2996.0,2601.0,328.0,57.0,10.0,2019
+"Mayen-Koblenz, Landkreis",9141.0,7718.0,1183.0,206.0,34.0,2019
+"Neuwied, Landkreis",8349.0,7170.0,960.0,184.0,35.0,2019
+Rhein-Hunsrück-Kreis,4799.0,4042.0,611.0,127.0,19.0,2019
+Rhein-Lahn-Kreis,5157.0,4489.0,554.0,96.0,18.0,2019
+Westerwaldkreis,9385.0,7915.0,1196.0,239.0,35.0,2019
+"Trier, kreisfreie Stadt",4959.0,4015.0,739.0,179.0,26.0,2019
+"Bernkastel-Wittlich, Landkreis",5092.0,4350.0,605.0,114.0,23.0,2019
+Eifelkreis Bitburg-Prüm,4246.0,3642.0,493.0,103.0,8.0,2019
+"Vulkaneifel, Landkreis",2723.0,2290.0,360.0,65.0,8.0,2019
+"Trier-Saarburg, Landkreis",5156.0,4434.0,618.0,92.0,12.0,2019
+"Frankenthal (Pfalz), kreisfreie Stadt",1889.0,1607.0,219.0,57.0,6.0,2019
+"Kaiserslautern, kreisfreie Stadt",4656.0,3844.0,607.0,174.0,31.0,2019
+"Landau in der Pfalz, kreisfreie Stadt",2516.0,2088.0,339.0,76.0,13.0,2019
+"Ludwigshafen am Rhein, kreisfreie Stadt",5744.0,4754.0,739.0,206.0,45.0,2019
+"Mainz, kreisfreie Stadt",10526.0,8915.0,1246.0,304.0,61.0,2019
+"Neustadt an der Weinstraße, kreisfreie Stadt",2818.0,2446.0,308.0,59.0,5.0,2019
+"Pirmasens, kreisfreie Stadt",2083.0,1753.0,256.0,63.0,11.0,2019
+"Speyer, kreisfreie Stadt",2656.0,2229.0,336.0,77.0,14.0,2019
+"Worms, kreisfreie Stadt",3578.0,3062.0,400.0,99.0,17.0,2019
+"Zweibrücken, kreisfreie Stadt",1506.0,1242.0,212.0,45.0,7.0,2019
+"Alzey-Worms, Landkreis",5452.0,4809.0,557.0,74.0,12.0,2019
+"Bad Dürkheim, Landkreis",6146.0,5453.0,577.0,108.0,8.0,2019
+Donnersbergkreis,2936.0,2546.0,314.0,68.0,8.0,2019
+"Germersheim, Landkreis",5060.0,4367.0,575.0,99.0,19.0,2019
+"Kaiserslautern, Landkreis",4193.0,3639.0,474.0,72.0,8.0,2019
+"Kusel, Landkreis",2307.0,2017.0,248.0,37.0,5.0,2019
+"Südliche Weinstraße, Landkreis",4888.0,4310.0,486.0,82.0,10.0,2019
+Rhein-Pfalz-Kreis,5779.0,5127.0,557.0,92.0,3.0,2019
+"Mainz-Bingen, Landkreis",9239.0,8148.0,939.0,133.0,19.0,2019
+"Südwestpfalz, Landkreis",3592.0,3185.0,356.0,48.0,3.0,2019
+"Koblenz, kreisfreie Stadt",5462.0,4411.0,790.0,219.0,42.0,2020
+"Ahrweiler, Landkreis",6035.0,5219.0,691.0,108.0,17.0,2020
+"Altenkirchen (Westerwald), Landkreis",4983.0,4162.0,659.0,144.0,18.0,2020
+"Bad Kreuznach, Landkreis",6519.0,5572.0,757.0,163.0,27.0,2020
+"Birkenfeld, Landkreis",3496.0,2998.0,408.0,74.0,16.0,2020
+"Cochem-Zell, Landkreis",2850.0,2460.0,325.0,55.0,10.0,2020
+"Mayen-Koblenz, Landkreis",8794.0,7409.0,1153.0,199.0,33.0,2020
+"Neuwied, Landkreis",8039.0,6893.0,920.0,194.0,32.0,2020
+Rhein-Hunsrück-Kreis,4568.0,3836.0,587.0,124.0,21.0,2020
+Rhein-Lahn-Kreis,4928.0,4273.0,543.0,95.0,17.0,2020
+Westerwaldkreis,9086.0,7632.0,1179.0,238.0,37.0,2020
+"Trier, kreisfreie Stadt",4717.0,3794.0,729.0,169.0,25.0,2020
+"Bernkastel-Wittlich, Landkreis",4821.0,4094.0,591.0,114.0,22.0,2020
+Eifelkreis Bitburg-Prüm,3961.0,3364.0,492.0,97.0,8.0,2020
+"Vulkaneifel, Landkreis",2605.0,2176.0,355.0,65.0,9.0,2020
+"Trier-Saarburg, Landkreis",4908.0,4194.0,602.0,97.0,15.0,2020
+"Frankenthal (Pfalz), kreisfreie Stadt",1784.0,1489.0,236.0,52.0,7.0,2020
+"Kaiserslautern, kreisfreie Stadt",4391.0,3593.0,599.0,169.0,30.0,2020
+"Landau in der Pfalz, kreisfreie Stadt",2419.0,1999.0,336.0,69.0,15.0,2020
+"Ludwigshafen am Rhein, kreisfreie Stadt",5416.0,4442.0,720.0,208.0,46.0,2020
+"Mainz, kreisfreie Stadt",10044.0,8473.0,1209.0,298.0,64.0,2020
+"Neustadt an der Weinstraße, kreisfreie Stadt",2681.0,2319.0,299.0,58.0,5.0,2020
+"Pirmasens, kreisfreie Stadt",1985.0,1650.0,263.0,62.0,10.0,2020
+"Speyer, kreisfreie Stadt",2544.0,2135.0,320.0,71.0,18.0,2020
+"Worms, kreisfreie Stadt",3430.0,2916.0,400.0,95.0,19.0,2020
+"Zweibrücken, kreisfreie Stadt",1454.0,1190.0,212.0,45.0,7.0,2020
+"Alzey-Worms, Landkreis",5171.0,4533.0,550.0,77.0,11.0,2020
+"Bad Dürkheim, Landkreis",5797.0,5110.0,577.0,103.0,7.0,2020
+Donnersbergkreis,2739.0,2362.0,305.0,64.0,8.0,2020
+"Germersheim, Landkreis",4811.0,4129.0,562.0,106.0,14.0,2020
+"Kaiserslautern, Landkreis",3971.0,3410.0,480.0,74.0,7.0,2020
+"Kusel, Landkreis",2142.0,1856.0,245.0,38.0,3.0,2020
+"Südliche Weinstraße, Landkreis",4622.0,4055.0,484.0,72.0,11.0,2020
+Rhein-Pfalz-Kreis,5435.0,4794.0,545.0,93.0,3.0,2020
+"Mainz-Bingen, Landkreis",8751.0,7675.0,922.0,135.0,19.0,2020
+"Südwestpfalz, Landkreis",3382.0,2980.0,350.0,49.0,3.0,2020
+"Koblenz, kreisfreie Stadt",5523.0,4494.0,765.0,221.0,43.0,2021
+"Ahrweiler, Landkreis",5920.0,5114.0,685.0,104.0,17.0,2021
+"Altenkirchen (Westerwald), Landkreis",5013.0,4191.0,657.0,147.0,18.0,2021
+"Bad Kreuznach, Landkreis",6510.0,5542.0,775.0,165.0,28.0,2021
+"Birkenfeld, Landkreis",3456.0,2956.0,408.0,78.0,14.0,2021
+"Cochem-Zell, Landkreis",2821.0,2422.0,334.0,56.0,9.0,2021
+"Mayen-Koblenz, Landkreis",8775.0,7365.0,1171.0,206.0,33.0,2021
+"Neuwied, Landkreis",8007.0,6835.0,944.0,193.0,35.0,2021
+Rhein-Hunsrück-Kreis,4568.0,3857.0,559.0,133.0,19.0,2021
+Rhein-Lahn-Kreis,4857.0,4198.0,546.0,96.0,17.0,2021
+Westerwaldkreis,9075.0,7634.0,1164.0,245.0,32.0,2021
+"Trier, kreisfreie Stadt",4756.0,3852.0,708.0,169.0,27.0,2021
+"Bernkastel-Wittlich, Landkreis",4856.0,4106.0,615.0,114.0,21.0,2021
+Eifelkreis Bitburg-Prüm,3950.0,3371.0,469.0,102.0,8.0,2021
+"Vulkaneifel, Landkreis",2630.0,2205.0,350.0,67.0,8.0,2021
+"Trier-Saarburg, Landkreis",4922.0,4197.0,615.0,96.0,14.0,2021
+"Frankenthal (Pfalz), kreisfreie Stadt",1792.0,1496.0,236.0,52.0,8.0,2021
+"Kaiserslautern, kreisfreie Stadt",4393.0,3598.0,594.0,171.0,30.0,2021
+"Landau in der Pfalz, kreisfreie Stadt",2436.0,2024.0,329.0,67.0,16.0,2021
+"Ludwigshafen am Rhein, kreisfreie Stadt",5507.0,4538.0,714.0,210.0,45.0,2021
+"Mainz, kreisfreie Stadt",10187.0,8609.0,1216.0,297.0,65.0,2021
+"Neustadt an der Weinstraße, kreisfreie Stadt",2683.0,2324.0,298.0,56.0,5.0,2021
+"Pirmasens, kreisfreie Stadt",1941.0,1623.0,244.0,64.0,10.0,2021
+"Speyer, kreisfreie Stadt",2545.0,2133.0,321.0,72.0,19.0,2021
+"Worms, kreisfreie Stadt",3438.0,2916.0,408.0,97.0,17.0,2021
+"Zweibrücken, kreisfreie Stadt",1460.0,1204.0,207.0,41.0,8.0,2021
+"Alzey-Worms, Landkreis",5215.0,4566.0,562.0,75.0,12.0,2021
+"Bad Dürkheim, Landkreis",5839.0,5152.0,581.0,100.0,6.0,2021
+Donnersbergkreis,2796.0,2423.0,303.0,62.0,8.0,2021
+"Germersheim, Landkreis",4798.0,4127.0,552.0,103.0,16.0,2021
+"Kaiserslautern, Landkreis",4004.0,3452.0,469.0,74.0,9.0,2021
+"Kusel, Landkreis",2154.0,1865.0,249.0,36.0,4.0,2021
+"Südliche Weinstraße, Landkreis",4663.0,4096.0,480.0,74.0,13.0,2021
+Rhein-Pfalz-Kreis,5450.0,4813.0,543.0,90.0,4.0,2021
+"Mainz-Bingen, Landkreis",8810.0,7736.0,912.0,143.0,19.0,2021
+"Südwestpfalz, Landkreis",3374.0,2970.0,349.0,53.0,2.0,2021

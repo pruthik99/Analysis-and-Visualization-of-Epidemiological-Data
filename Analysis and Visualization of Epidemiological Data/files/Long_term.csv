@@ -1,0 +1,64 @@
+Type_of_care,Total_Person,Female,Male,Year
+All kinds of care,2016091,1384269,631822,1999
+outpatient Care,415289,297927,117362,1999
+Permanent care for full-time inpatients,554217,438522,115695,1999
+Short-term inpatient care,8545,6148,2397,1999
+care allowance,1027591,633971,393620,1999
+informative: semi-residential day care,10276,7571,2705,1999
+informative: semi-residential night care,173,130,43,1999
+All kinds of care,2039780,1397899,641881,2001
+outpatient Care,434679,309814,124865,2001
+Permanent care for full-time inpatients,582258,459917,122341,2001
+Short-term inpatient care,9643,6852,2791,2001
+care allowance,1000736,612451,388285,2001
+informative: semi-residential day care,12409,8840,3569,2001
+informative: semi-residential night care,55,25,30,2001
+All kinds of care,2076935,1414042,662893,2003
+outpatient Care,450126,318416,131710,2003
+Permanent care for full-time inpatients,612183,479465,132718,2003
+Short-term inpatient care,10999,7708,3291,2003
+care allowance,986520,596369,390151,2003
+informative: semi-residential day care,17078,12064,5014,2003
+informative: semi-residential night care,29,20,9,2003
+All kinds of care,2128550,1438278,690272,2005
+outpatient Care,471543,329106,142437,2005
+Permanent care for full-time inpatients,644165,498127,146038,2005
+Short-term inpatient care,13351,9425,3926,2005
+care allowance,980425,588539,391886,2005
+informative: semi-residential day care,19048,13067,5981,2005
+informative: semi-residential night care,18,14,4,2005
+All kinds of care,2246829,1517883,728946,2007
+outpatient Care,504232,346746,157486,2007
+Permanent care for full-time inpatients,671080,511618,159462,2007
+Short-term inpatient care,15002,10563,4439,2007
+care allowance,1033286,633450,399836,2007
+informative: semi-residential day care,23196,15490,7706,2007
+informative: semi-residential night care,33,16,17,2007
+All kinds of care,2338252,1566482,771770,2009
+outpatient Care,555198,378671,176526,2009
+Permanent care for full-time inpatients,699672,525876,173796,2009
+Short-term inpatient care,17819,12410,5409,2009
+care allowance,1065564,649525,416039,2009
+informative: semi-residential day care,31374,20511,10863,2009
+informative: semi-residential night care,24,17,7,2009
+All kinds of care,2501441,1638278,863163,2011
+outpatient Care,576264,391262,185002,2011
+Permanent care for full-time inpatients,723451,536567,186884,2011
+Short-term inpatient care,19669,13202,6467,2011
+care allowance,1182057,697247,484810,2011
+informative: semi-residential day care,43782,28274,15508,2011
+informative: semi-residential night care,18,10,8,2011
+All kinds of care,2626206,1697337,928869,2013
+outpatient Care,615846,414007,201839,2013
+Permanent care for full-time inpatients,743430,541544,201886,2013
+Short-term inpatient care,21001,14031,6970,2013
+care allowance,1245929,727755,518174,2013
+informative: semi-residential day care,57173,36747,20426,2013
+informative: semi-residential night care,43,25,18,2013
+All kinds of care,2860293,1831859,1028434,2015
+outpatient Care,692273,461937,230336,2015
+Permanent care for full-time inpatients,759204,546895,212309,2015
+Short-term inpatient care,24212,15867,8345,2015
+care allowance,1384604,807160,577444,2015
+informative: semi-residential day care,73844,47654,26190,2015
+informative: semi-residential night care,42,32,10,2015
